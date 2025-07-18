@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **System Design(Frontend + Backend), AWS, DataProcessing**
 
-💬 Ask me about **Python, Django, Flask, React, Data Analytics... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Python, Django, Flask, React, Data Analytics... or anything [here](https://github.com/itsashishrath/itsashishrath/issues)**
 
 ⚡ Fun fact **AI models like GPT-4 can now “read” and “write” code better than many junior developers — and are starting to write code to improve themselves. 🤖💻**
  </div>
